@@ -11,15 +11,15 @@ The project team does not hold any RISE4E. The owner authority is destroyed. The
 ## Contract Addresses
 | Contract  | Address |
 | ------------- | ------------- |
-| RISE4E | [0xeD37E548Cb0d17fFFFd8f98e7a9E44cF05a8a367](https://polygonscan.com/token/0xeD37E548Cb0d17fFFFd8f98e7a9E44cF05a8a367) |
-| RISE4E/WMATIC | [0xf08103Faa67D1dbe6dAEc529CE19C75FC802A678](https://polygonscan.com/address/0xf08103faa67d1dbe6daec529ce19c75fc802a678)|
+| RISE4E | [0xeD37E548Cb0d17fFFFd8f98e7a9E44cF05a8a367](https://polygonscan.com/token/0xEfbf638f5de8c3DC80e925822276a5101fc09Dd9) |
+| RISE4E/WMATIC | [0xf08103Faa67D1dbe6dAEc529CE19C75FC802A678](https://polygonscan.com/address/0xAC00F46FEB0F4006C1553B06a600A7D9c26BFaBA)|
 
 
 ## Project links and info
 
 Website links: https://rise4e.com
 
-PolygeonScan: https://polygonscan.com/token/0xeD37E548Cb0d17fFFFd8f98e7a9E44cF05a8a367
+PolygeonScan: https://polygonscan.com/token/0xEfbf638f5de8c3DC80e925822276a5101fc09Dd9
 
 Whitepaper: https://rise4e-global.medium.com/rise4e-whitepaper-1e6829896c1e
 
