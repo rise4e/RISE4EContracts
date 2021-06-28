@@ -11,8 +11,8 @@ The project team does not hold any RISE4E. The owner authority is destroyed. The
 ## Contract Addresses
 | Contract  | Address |
 | ------------- | ------------- |
-| RISE4E | [0xeD37E548Cb0d17fFFFd8f98e7a9E44cF05a8a367](https://polygonscan.com/token/0xEfbf638f5de8c3DC80e925822276a5101fc09Dd9) |
-| RISE4E/WMATIC | [0xf08103Faa67D1dbe6dAEc529CE19C75FC802A678](https://polygonscan.com/address/0xAC00F46FEB0F4006C1553B06a600A7D9c26BFaBA)|
+| RISE4E | [0xEfbf638f5de8c3DC80e925822276a5101fc09Dd9](https://polygonscan.com/token/0xEfbf638f5de8c3DC80e925822276a5101fc09Dd9) |
+| RISE4E/WMATIC | [0xAC00F46FEB0F4006C1553B06a600A7D9c26BFaBA](https://polygonscan.com/address/0xAC00F46FEB0F4006C1553B06a600A7D9c26BFaBA)|
 
 
 ## Project links and info
