@@ -1,6 +1,6 @@
 # RISE4E
 
-RISE4E is a value-oriented, economically sustainable hybrid yield aggregator on Polygon. An innovative transaction mechanism enables RISE4E keeps rising in the long run. Limited selling opportunities will be released after four continues buying transactions have been made in the liquidity pool. In addition, the maximum selling value at one time equals to a quarter of total purchase value. With a total supply of 1000 trillion, 800 trillion RISE4E will be reserved as the initial supply and the last 20 percentage will be reserved for staking and airdrops. It will grow fast with the popularity of influencers and community members. Completely launched from the community and no priorities or VC pre-sales. The goal is to 100% involve the community in the usage of their funds and to maintain absolute transparency.
+RISE4E is a value-oriented, economically sustainable hybrid yield aggregator on Multi-chain. An innovative transaction mechanism enables RISE4E keeps rising in the long run. Limited selling opportunities will be released after four continues buying transactions have been made in the liquidity pool. In addition, the maximum selling value at one time equals to a quarter of total purchase value. With a total supply of 1000 trillion, 800 trillion RISE4E will be reserved as the initial supply and the last 20 percentage will be reserved for staking and airdrops. It will grow fast with the popularity of influencers and community members. Completely launched from the community and no priorities or VC pre-sales. The goal is to 100% involve the community in the usage of their funds and to maintain absolute transparency.
 
 Total amount of tokens: 1,000 trillion RISE4E.
 80% and 10,000 WMATIC will be reserved for liquidity (locked for 30 days).
@@ -8,7 +8,15 @@ Total amount of tokens: 1,000 trillion RISE4E.
 
 The project team does not hold any RISE4E. The owner authority is destroyed. The code is completely open sourced.
 
-## Contract Addresses
+
+## Contract Addresses on BSC
+| Contract  | Address |
+| ------------- | ------------- |
+| RISE4E | [0x1948551c8E15ae1C947451D03DcEF0E18E5e838A](https://bscscan.com/token/0x1948551c8E15ae1C947451D03DcEF0E18E5e838A) |
+| RISE4E/WBNB | [0xe58B972C0A3a7524c601b4c0F57CF97918ec405A](https://bscscan.com/address/0xe58B972C0A3a7524c601b4c0F57CF97918ec405A)|
+
+
+## Contract Addresses on Polygon
 | Contract  | Address |
 | ------------- | ------------- |
 | RISE4E | [0xEfbf638f5de8c3DC80e925822276a5101fc09Dd9](https://polygonscan.com/token/0xEfbf638f5de8c3DC80e925822276a5101fc09Dd9) |
@@ -18,6 +26,8 @@ The project team does not hold any RISE4E. The owner authority is destroyed. The
 ## Project links and info
 
 Website links: https://rise4e.com
+
+BSCScan: https://bscscan.com/token/0x1948551c8E15ae1C947451D03DcEF0E18E5e838A
 
 PolygeonScan: https://polygonscan.com/token/0xEfbf638f5de8c3DC80e925822276a5101fc09Dd9
 
