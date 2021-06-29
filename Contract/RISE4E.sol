@@ -1,10 +1,5 @@
-/**
- *Submitted for verification at polygonscan.com on 2021-06-26
-*/
-
-// File: @openzeppelin/contracts/GSN/Context.sol
-
 // SPDX-License-Identifier: MIT
+// File: @openzeppelin/contracts/GSN/Context.sol
 
 pragma solidity ^0.6.0;
 
