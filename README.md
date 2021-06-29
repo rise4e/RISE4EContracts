@@ -3,7 +3,7 @@
 RISE4E is a value-oriented, economically sustainable hybrid yield aggregator on Multi-chain. An innovative transaction mechanism enables RISE4E keeps rising in the long run. Limited selling opportunities will be released after four continues buying transactions have been made in the liquidity pool. In addition, the maximum selling value at one time equals to a quarter of total purchase value. With a total supply of 1000 trillion, 800 trillion RISE4E will be reserved as the initial supply and the last 20 percentage will be reserved for staking and airdrops. It will grow fast with the popularity of influencers and community members. Completely launched from the community and no priorities or VC pre-sales. The goal is to 100% involve the community in the usage of their funds and to maintain absolute transparency.
 
 Total amount of tokens: 1,000 trillion RISE4E.
-80% and 10,000 WMATIC will be reserved for liquidity (locked for 30 days).
+80% and 100 WBNB / 10,000 WMATIC will be reserved for liquidity (locked for 30 days).
 20% will be reserved for airdrop for all users and mining.
 
 The project team does not hold any RISE4E. The owner authority is destroyed. The code is completely open sourced.
